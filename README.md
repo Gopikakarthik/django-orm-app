@@ -50,7 +50,7 @@ class GitAdmin(admin.ModelAdmin):
 
 ## OUTPUT
 
-![Django-data-base](django-data-base.png)
+![Django-data-base](entity.png)
 
 
 ## RESULT
