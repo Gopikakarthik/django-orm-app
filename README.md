@@ -50,7 +50,8 @@ class GitAdmin(admin.ModelAdmin):
 
 ## OUTPUT
 
-![Django-data-base](entity.png)
+![Screenshot (11)](https://github.com/Gopikakarthik/django-orm-app/assets/121235427/ccdfdfba-c4ef-45e0-8640-3fd51ee4515d)
+
 
 
 ## RESULT
